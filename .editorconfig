@@ -1,0 +1,10 @@
+root = true
+
+[*]
+end_of_line = lf
+continuation_indent_size = 2
+indent_style = space
+indent_brace_style = K&R
+indent_size = 2
+insert_final_newline = false
+charset = utf-8
